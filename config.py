@@ -20,7 +20,8 @@ TOP_K_RESULTS = 5
 PDF_FOLDER = os.getenv("D:\HackVerse\RPD-en-US\RPD-en-US", "./pdfs")
 
 
-HF_TOKEN = os.getenv("HF_TOKEN", "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")
+HF_TOKEN = os.getenv("HF_TOKEN", "hf_hxxxxxxxxxxxxxxxxxxsKl")
+
 
 
 HF_MODEL = os.getenv("HF_MODEL", "moonshotai/Kimi-K2-Instruct-0905:groq")
